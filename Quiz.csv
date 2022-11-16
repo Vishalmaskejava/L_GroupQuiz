@@ -1,0 +1,31 @@
+Q_no,Question,correctAnswer
+1,"Number of primitive datatype in java?
+	a.5	b.6
+	c.7	d.8",d
+2,"Select the valid statement?
+	a.char[] ch=new char(5)	b.char[] ch=new char[5]
+	c.char[] ch=new char()	d.char[] ch = new char[]",b
+3,"When an array is passed to method,what does method actually receives?
+	a.Reference of array 	b.Copy of array 
+	c.length of array	d.copy of first element",a
+4,"Arrays in JAVA are?
+	a.Object References	b.Objects
+	c.Primitive datatypes	d.Nine",b
+5,"When is the Object created with new Keyword?
+	a.Runtime	b.Compiletime
+	c.Depends on code	d.None",a
+6,"Which is not the feature of java?
+	a.Distributable	b.fully object oriented
+	c.Portable	d.Platform independet",b
+7,"compareTo() return what?
+	a.True	b.false
+	c.An int value	d.None",c
+8,"Identify the return type of method that does not return any value?
+	a.int	b.void
+	c.double	d.String",b
+9,"Identify the modifier that cannot be used for constructor?
+	a.public	b.private
+	c.protected	d.static",d
+10,"Identify the infinite loop?
+	a.for( ; ; )	b.for(int i=0;i<1;i--)
+	c.for(int i=0;;i++)	d.All of the Above",d
